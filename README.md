@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Next TS Starter
+
+- Husky for git linting - runs all lints and build before pushing to github
+- Commit linting enabled - check `commitlint.config.js` for more info
+- Eslint Airbnb - various custom rules
+- Stylelint - with sass plugin and reordering
+- Prettier for formatting
+- Normalize CSS package loaded into `_App.tsx`
+- Axios
+
 ## Getting Started
 
 First, run the development server:
